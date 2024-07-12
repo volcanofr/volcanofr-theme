@@ -1,6 +1,6 @@
 {
   "name": "volcanofr-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "volcanofr",
   "engines": {
     "vscode": "^1.91.0"
