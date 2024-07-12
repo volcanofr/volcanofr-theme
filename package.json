@@ -1,16 +1,20 @@
 {
   "name": "volcanofr-theme",
-  "publisher": "volcanofr",
-  "repository": "github:volcanofr/volcanofr-theme",
-  "displayName": "volcanofr's Theme",
-  "description": "A theme in the colors of volcanofr.",
   "version": "1.0.0",
+  "publisher": "volcanofr",
   "engines": {
     "vscode": "^1.91.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "license": "MIT",
+  "displayName": "volcanofr's Theme",
+  "description": "A theme in the colors of volcanofr.",
+  "categories": ["Themes"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volcanofr/volcanofr-theme.git"
+  },
+  "keywords": ["volcanofr", "theme", "color-theme"],
+  "preview": false,
   "contributes": {
     "themes": [
       {
@@ -19,5 +23,7 @@
         "path": "./themes/volcanofr-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "images/icon.png",
+  "pricing": "Free"
 }

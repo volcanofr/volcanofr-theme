@@ -1,16 +1,36 @@
-# volcanofr-theme README
+# volcanofr's Theme for [Visual Studio Code](https://code.visualstudio.com/)
 
-## Working with Markdown
+> A dark theme for [Visual Studio Code](https://code.visualstudio.com/)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![Visual rendering](https://github.com/volcanofr/volcanofr-theme/images/render.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Made for night coding guys. Dark color theme.
 
-## For more information
+## Install
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Inside VS Code
 
-**Enjoy!**
+1. Click `Extensions` on the sidebar, or press `Ctrl + Shift + X`.
+2. Search "`volcanofr's Theme`", and click on the `Install` button on the first extension.
+
+### From web link
+
+1. Open [this marketplace extension](https://marketplace.visualstudio.com/items?itemName=volcanofr.volcanofr-theme)
+2. Press the `Install` button.
+
+## Team
+
+[![volcanofr](https://avatars.githubusercontent.com/u/74511042?s=96)](https://github.com/volcanofr) |
+:---: |
+[volcanofr](https://github.com/volcanofr) |
+
+## Community
+
+* [Github](https://github.com/volcanofr/volcanofr-theme/issues)
+* [Discord](https://discord.com/users/589383722759880705)
+
+## License
+
+Copyright 2024 volcanofr - [MIT License](https://opensource.org/license/mit)
+
+Made with [themes/vscode.one](https://themes.vscode.one/theme/volcanofr/fwqia1Wv)
