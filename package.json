@@ -1,0 +1,22 @@
+{
+  "name": "volcanofr-theme",
+  "publisher": "volcanofr",
+  "displayName": "volcanofr's Theme",
+  "description": "A theme in the colors of volcanofr.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "volcanofr",
+        "uiTheme": "vs-dark",
+        "path": "./themes/volcanofr-color-theme.json"
+      }
+    ]
+  }
+}
