@@ -2,7 +2,7 @@
 
 > A dark theme for [Visual Studio Code](https://code.visualstudio.com/)
 
-![Visual rendering](https://github.com/volcanofr/volcanofr-theme/images/render.png)
+![Visual rendering](https://github.com/volcanofr/volcanofr-theme/blob/master/images/render.png)
 
 Made for night coding guys. Dark color theme.
 
